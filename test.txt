@@ -1,2 +1,3 @@
 add some contents in test.txt
-add  mmy loacls
+add loacls
+add three locals
