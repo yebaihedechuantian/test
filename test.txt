@@ -1,2 +1,2 @@
 add some contents in test.txt
-add some contents in locals
+add loacls
