@@ -1,5 +1,5 @@
 add some contents in test.txt
 add loacls
 add three locals
-add git checkout feature
+add git checkout feature news
 
