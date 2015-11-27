@@ -3,4 +3,4 @@ add loacls
 add three locals
 add git checkout feature 
 add git feature second
-
+add remote upstream
